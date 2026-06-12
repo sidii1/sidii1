@@ -57,7 +57,7 @@ const siddhi = {
 
 A real-time startup platform — I'm leading the tech development from the ground up, handling architecture, frontend, and product decisions.
 
-[Check it out →](https://github.com/sidii1/The-Consistent-Academy)
+[Check it out →](https://www.theconsistentacademy.in/)
 
 </td>
 </tr>
