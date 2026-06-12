@@ -41,14 +41,7 @@ const siddhi = {
 };
 ```
 
-</td>
-<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/F9hQLAVgWxXbSatPAW/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
