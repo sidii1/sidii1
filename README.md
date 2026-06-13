@@ -55,7 +55,7 @@ const siddhi = {
 
 **🎯 The Consistent Academy**
 
-A real-time startup platform — I'm leading the tech development from the ground up, handling architecture, frontend, and product decisions.
+A real-time startup platform — I'm leading the tech development from the ground up, handling architecture, backend, and product decisions.
 
 [Check it out →](https://www.theconsistentacademy.in/)
 
