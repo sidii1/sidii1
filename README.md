@@ -77,14 +77,12 @@ A real-time startup platform — I'm leading the tech development from the groun
 
 <div align="center">
 
-### 📊 The Numbers
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sidii1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidii1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidii1&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sidii1&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidii1&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidii1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
+
 
 ---
 
