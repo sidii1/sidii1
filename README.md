@@ -92,9 +92,10 @@ A real-time startup platform — I'm leading the tech development from the groun
 
 | | |
 |---|---|
-| 🌲 **[deforestation_tracking](https://github.com/sidii1/deforestation_tracking)** | Visualizing environmental data with JS |
-| 🚗 **[parkify](https://github.com/lakshuki63/parkify)** | Smart parking system, built end-to-end |
-| 📌 **[PinBoard](https://github.com/sidii1/PinBoard-mern)** | A Pinterest-style mood board app |
+|  **[Icarus](https://github.com/sidii1/Icarus)** | Visualizing and predicting Space data  |
+|  **[Deforestation_tracking](https://github.com/sidii1/deforestation_tracking)** | Visualizing environmental data with JS |
+|  **[Parkify](https://github.com/lakshuki63/parkify)** | Smart parking system, built end-to-end |
+|  **[PinBoard](https://github.com/sidii1/PinBoard-mern)** | A Pinterest-style mood board app |
 
 </div>
 
